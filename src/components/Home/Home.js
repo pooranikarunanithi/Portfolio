@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/background.jpg";
+//import homeLogo from "../../Assets/background.jpg";
 import background from "../../Assets/poori_img_-_Copy-removebg-preview.png"
 import Particle from "../Particle";
 import Home2 from "./Home2";
@@ -29,7 +29,7 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img src={homeLogo} alt="home pic" className="img-fluid" />
+            
               <img src={background} alt="home pic" className="img1-fluid" />
               
             </Col>

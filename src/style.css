@@ -84,7 +84,7 @@ html {
 .navbar {
   position: fixed !important;
   transition: all 0.3s ease-out 0s !important;
-  padding: 0.3rem 2rem !important;
+  padding: 0.2rem 2rem !important;
   font-size: 1.2rem !important;
 }
 
@@ -254,8 +254,9 @@ html {
 .home-section {
   position: relative;
   z-index: -1;
-  /*background-image: var(--image-gradient), url(./Assets/home-bg.jpg);*/
-  background-color:white;
+  /*background-image: url(./Assets/pa.jpg);*/
+  background-color: rgb(6, 54, 50);
+ background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -404,8 +405,8 @@ html {
 .footer {
   background-color: rgb(10, 4, 22);
   bottom: 0 !important;
-  padding-top: 10px !important;
-  padding-bottom: 8px !important ;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important ;
 }
 .footer-copywright {
   text-align: center !important;

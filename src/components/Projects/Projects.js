@@ -4,11 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import Screenshot from "../../Assets/Projects/Screenshot.jpg";
-import emotion from "../../Assets/Projects/emotion.jpeg";
+
 import restra from "../../Assets/Projects/restra.jpg";
 import getfliximage from "../../Assets/Projects/getfliximage.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+
 
 function Projects() {
   return (

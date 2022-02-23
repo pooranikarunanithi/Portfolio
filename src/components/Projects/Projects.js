@@ -52,7 +52,7 @@ function Projects() {
             <ProjectCard
               imgPath={restra}
               isBlog={false}
-              title="RESTRANTENT"
+              title="Restaurant Framework"
               description="The website is responsive, at least for small and medium screens. It has five accessible pages: welcome, menu, pictures, restaurants and contact.
                It is created by Using HTML,CSS,SASS,BOOTSTRAP."
               
